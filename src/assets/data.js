@@ -1,4 +1,4 @@
-import star1 from "./star1.png";
+import star1 from "../assets/star1.png";
 import star2 from "./star2.png";
 import heroimage from "./Heroimage.png";
 import banner from "./banner.png";
