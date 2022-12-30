@@ -1,6 +1,6 @@
 import star1 from "./Star1.png";
 import star2 from "./Star2.png";
-import heroimage from "./Heroimage.png";
+import heroimage from "./HeroImage.png";
 import banner from "./banner.png";
 import secure from "./secure.png";
 import fees from "./fees.png";
