@@ -53,7 +53,7 @@ function Landing() {
         animate={{ opacity: 1 }}
         transition={{ delay: 3, duration: 1 }}
       >
-        {/* <img src={star1} alt="" /> */}
+        <img src={star1} alt="" />
       </motion.div>
       {/* //star image */}
       {/* ------------------------------------------------------------------------------ */}

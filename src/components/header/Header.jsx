@@ -12,7 +12,7 @@ function Header() {
           animate={{ opacity: 1, y: "0%" }}
           transition={{ delay: 6, duration: 1, type: "spring", stiffness: 120 }}
         >
-          {/* <img src={star1} alt="" height="50" width="50" /> */}
+          <img src={star1} alt="" height="50" width="50" />
           <span>BANQUEE</span>
         </motion.button>
 
