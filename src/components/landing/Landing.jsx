@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import { heroimage, star1, star2 } from "../../assets/data";
+import { heroimage, star1, star2 } from "../../assets/data.js";
 import Header from "../header/Header";
 import Button from "./Button";
 function Landing() {
