@@ -1,4 +1,4 @@
-import star1 from "./star1.png";
+// import star1 from "./star1.png";
 import star2 from "./star2.png";
 import heroimage from "./Heroimage.png";
 import banner from "./banner.png";
@@ -20,7 +20,7 @@ import profile4 from "./profile4.jpg";
 import star5 from "./star5.png";
 
 export {
-  star1,
+  // star1,
   star2,
   heroimage,
   banner,
