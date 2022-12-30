@@ -39,5 +39,5 @@ export {
   profile2,
   profile3,
   profile4,
-  star5,
+  star5
 };
