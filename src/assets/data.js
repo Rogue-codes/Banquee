@@ -1,14 +1,14 @@
-import star1 from "./star1.png";
-import star2 from "./star2.png";
+import star1 from "./Star1.png";
+import star2 from "./Star2.png";
 import heroimage from "./Heroimage.png";
 import banner from "./banner.png";
 import secure from "./secure.png";
 import fees from "./fees.png";
 import bill from "./bill.png";
 import card from "./card.png";
-import star3 from "./star3.png";
+import star3 from "./Star3.png";
 import bank from "./bank.png";
-import star4 from "./star4.png";
+import star4 from "./Star4.png";
 import lego2 from "./lego2.png";
 import lego3 from "./lego3.png";
 import lego4 from "./lego4.png";
@@ -17,7 +17,7 @@ import profile1 from "./profile1.jpg";
 import profile2 from "./profile2.jpg";
 import profile3 from "./profile3.jpg";
 import profile4 from "./profile4.jpg";
-import star5 from "./star5.png";
+import star5 from "./Star5.png";
 
 export {
   star1,
